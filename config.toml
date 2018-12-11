@@ -1,4 +1,4 @@
-baseurl = "http://www.ethannelson.github.com"
+baseurl = "https://www.ethannelson.github.io"
 title = "Ethan Nelson - Data Reporter"
 theme = "hugo-coder"
 languagecode = "en"
