@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2018-07-12T19:40:04-06:00
 title = "NY Times Bestsellers"
 slug = "ny-times-react" 

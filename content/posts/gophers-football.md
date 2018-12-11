@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2016-12-07T21:28:24-06:00
 title = "Average Gophers football attendance falls after 30-year high"
 slug = "gophers-football" 
